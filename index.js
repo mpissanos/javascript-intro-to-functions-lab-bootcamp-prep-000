@@ -21,9 +21,9 @@ function sayHiToGrandma(string) {
 }
 
 function sayHiToGrandma(string) {
-    if ( string === uppercase ){
+    if ( ${string} === uppercase ){
   }
-    return "YES INDEED!";
+    
 }
 
 
