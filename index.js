@@ -22,9 +22,9 @@ function sayHiToGrandma(string) {
 
 function sayHiToGrandma(string) {
     if(string === uppercase){
-    return ();}
+    return "YES, INDEED!";
   }
-
+}
 
 
 function sayHiToGrandma(string) {
